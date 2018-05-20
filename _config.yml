@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+title                    : "Kumar Siddhant"
+title_separator          : " "
+name                     : &name "Kumar Siddhant"
+description              : &description "Page of Kumar Siddhant"
+url                      : https://ksiddhant.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "sid231.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,33 +78,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Kumar Siddhant"
+  avatar           : "me.png"
+  bio              : "Graduate student at Rutgers University | Deep Learning | Machine Learning | Computer Vision | ex-Developer @ Verizon Wireless”"
+  location         : "New Brunswick, New Jersey"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : 
+  email            : "ksiddhant92@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/ksiddhant92"
   foursquare       :
-  github           : "academicpages"
+  github           : "Sid231"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "ksiddhant92"
   orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
+  pinterest        : "https://orcid.org/0000-0003-4373-8569"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "Sid_0231"
   vine             :
   weibo            :
   xing             :
