@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is Kumar Siddhant. Welcome to my page!
+Hello! Welcome to my page!
 
-I am currently pursuing my Master of Science in Computer Engineering at Rutgers University, New Brunswick with an expected graduation in Spring 2019.
-
-I have worked on research projects based on Robotics, AI and animation and want to broaden my knowledge in the field of Machine Learning and Computer Vision. Presently enrolled in courses like Deep Learning and Computer Intervention in Medicine. Actively
-looking for Research Assistant opportunities in the summer in the field of Computer Vision.
+I am Kumar Siddhant, originally from a small town called Talcher, popular for coal mines, from India. I am now pursuing my Master of Science in Computer Engineering at Rutgers University, New Brunswick with specialization in the field of Machine Learning and Deep Learning. Right now I am learning more about Big Data applications, distributed computing and schedulling algorithms and looking out for full-time opportunities in the field of Data Science.
 
 Before joining Rutgers, I worked in Verizon India as a software developer and spent a great deal of time in understanding the software industry and honing the programming skills. 
 
